@@ -1,0 +1,26 @@
+.superiority {
+    margin-top: 200px;
+    color: #fff;
+    display: flex;
+    &__item {
+        margin-right: 2.2rem;
+        &:last-child {
+            margin-right: 0;
+        }
+    p {
+        max-width: 23rem;
+        font-size: 2rem;
+        line-height: 2.4rem;
+        font-family: var(--nunito);
+    }
+    }
+    svg {
+        width: 4.4rem;
+        height: 4.1rem;
+        margin-bottom: 1.9rem;
+        &:last-child {
+            width: 5.7rem;
+            height: 3.7rem;
+        }
+    }
+}

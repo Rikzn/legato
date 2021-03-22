@@ -1,0 +1,14 @@
+.main {
+    color: #fff;
+    max-width: 65.4rem;
+    margin-top: 20.8rem;
+    h1 {
+        font-size: 5.2rem;
+        line-height: 6rem;
+        font-family: var(--nunito);
+    }
+    &-btn {
+        display: flex;
+        margin-top: 6.3rem;   
+    }
+}
