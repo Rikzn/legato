@@ -1,0 +1,26 @@
+.juxtapose {
+    flex-basis: 50%;
+}
+
+.jx {
+    &-knightlab {
+        display: none !important;
+    }
+    &-control {
+        display: none;
+    }
+    &-arrow {
+        width: 20px;
+        height: 20px;
+        border-top: 5px solid #6E18C0;
+        border-right: 5px solid #6E18C0;
+        margin-right: 60px;
+    }
+    &-slider {
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+    &-left {
+
+    }
+}
