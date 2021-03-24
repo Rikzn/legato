@@ -993,7 +993,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  font-family: var(--roboto) sans-serif;
+  font-family: var(--roboto);
   color: black; }
 
 main {
